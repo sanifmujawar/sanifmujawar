@@ -9,7 +9,7 @@ My Name is Mohd Sanif Mujawar, and I am working as a Site Reliability Engineer. 
   <a href="https://github.com/sanifmujawar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/adnan-karol-aa1666179/">
+    <a href="https://www.linkedin.com/in/sanif-mujawar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://medium.com/@adnanmushtaq5">
