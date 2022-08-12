@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Linux Administration**
 
-- 🤝 I’m looking for help with **Ai Monitoring Tool Using RESTFUL API**
+- 🤝 I’m looking for help with **AI Monitoring Tool Using RESTFUL API**
 
 - 💬 Ask me about **Administrating middleware’s, configuration changes, tuning. Implementation and support for Apache Tomcat, Nginx, HA-Proxy and Solr.**
 
