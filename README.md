@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sanifmujawar/sanifmujawar/blob/main/Sanif%20Mujawar.png)
+![MasterHead](https://github.com/sanifmujawar/sanifmujawar/blob/main/Sanif%20Mujawar.png)
 <h1 align="center">Hi 👋, I'm Mohd Sanif Mujawar</h1>
 <h3 align="center">A passionate Site Reliability Engineer/ DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*7b9QTCP42NrJQDKsSL958Q.gif">
