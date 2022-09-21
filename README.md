@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/sanif-mujawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanif-mujawar/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sanif.mujawar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed sanif mujawar" height="30" width="40" /></a>
 <a href="https://instagram.com/sanifmujawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanifmujawar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanif mujawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanif mujawar" height="30" width="40" /></a>
+<a href="https://youtu.be/FtH7D-MNebg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanif mujawar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanifmujawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanifmujawar" height="30" width="40" /></a>
 </p>
 
