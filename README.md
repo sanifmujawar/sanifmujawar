@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanifmujawar&label=Profile%20views&color=0e75b6&style=flat" alt="sanifmujawar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/isanifmujawar" target="blank"><img src="https://img.shields.io/twitter/follow/isanifmujawar?logo=twitter&style=for-the-badge" alt="isanifmujawar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isanifmujawar" target="blank"><img src="https://img.shields.io/twitter/follow/sanifmujawar?logo=twitter&style=for-the-badge" alt="isanifmujawar" /></a> </p>
 
 - 🔭 I’m currently working on **Migrating Hybrid Cloud To Amazon Web Service**
 
